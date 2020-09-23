@@ -1,6 +1,6 @@
 ### Hi, I’m Grant. 👋
 
-I currently am a Senior Software Engineer at Illuminate in Kansas City. We are working on ML around detecting unfollowed diseases found in clinical notes and reports.
+I am currently a Senior Software Engineer at Illuminate in Kansas City. We are working on ML around detecting unfollowed diseases found in clinical notes and reports.
 
 Previously, I led the mobile applications team for Cerner’s Consumer Engagement Organization, focused on creating experiences that empower users with their Health and Wellness data. Outside of that, I consult for myHomework, an education startup focused on giving schools and teachers insights they never had before and helping students foster life skills, not just test taking skills. I mainly help with their iOS and MacOS platforms.
 
