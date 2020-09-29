@@ -1,7 +1,6 @@
-### Hi, I’m Grant. 👋
+## Hi, I’m Grant. 👋
 
-#### [About](https://grantisom.com/about)
-#### [Blog](https://grantisom.com)
+### [About](https://grantisom.com/about) | [Blog](https://grantisom.com)
 
 | Recent Personal Projects | |
 |-|-|
