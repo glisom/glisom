@@ -1,8 +1,8 @@
 ## Hi, I'm Grant.
 
-Senior Engineering Manager building mobile, AI, and platform products. Currently at [RealWork Labs](https://realwork.com) leading engineering teams.
+Senior Engineering Manager building mobile, AI, and web products. Currently at [RealWork Labs](https://realwork.com) leading engineering.
 
-Previously led engineering at Illuminate AI (healthcare NLP) and built patient apps at Cerner collaborating with Apple on early HealthKit integrations.
+Previously led engineering at Illuminate AI (healthcare NLP) and built patient apps at Cerner (now Oracle Health).
 
 ### What I'm working on
 
