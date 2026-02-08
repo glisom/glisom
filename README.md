@@ -6,6 +6,7 @@ Previously led engineering at Illuminate AI (healthcare NLP) and built patient a
 
 ### What I'm working on
 
+- [Drift Dreams](https://getdriftdreams.com) — Sleep and dream journaling app
 - [HealthQL](https://github.com/glisom/HealthQL) — SQL query language for Apple HealthKit
 - [Rio](https://realwork.com) — Voice agent platform for home services
 
