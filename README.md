@@ -1,14 +1,10 @@
 ## Hi, I'm Grant.
 
-Senior Engineering Manager building mobile, AI, and web products. Currently at [RealWork Labs](https://realwork.com) leading engineering.
-
-Previously led engineering at Illuminate AI (healthcare NLP) and built patient apps at Cerner (now Oracle Health).
+Software engineer with 10+ years building and leading mobile, AI, and platform teams. 0→1 builder who scales people, process, and product.
 
 ### What I'm working on
 
-- [Drift Dreams](https://getdriftdreams.com) — Sleep and dream journaling app
-- [HealthQL](https://github.com/glisom/HealthQL) — SQL query language for Apple HealthKit
-- [Rio](https://realwork.com) — Voice agent platform for home services
+- [Limelight](https://www.limelighthq.com/) — The first b2b creator partnership platform
 
 ### Links
 
