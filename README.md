@@ -1,4 +1,4 @@
-[![Grant Isom — Software Engineer · Applied AI. A smiling blue halftone cloud on charcoal.](assets/profile-banner.png)](https://grantisom.com)
+[![Abstract blue halftone collage with a smiling cloud, flowing terrain, orbital lines, and a laptop and bat inspired by Vampire.](assets/profile-banner.png)](https://grantisom.com)
 
 ## Hi, I'm Grant.
 
