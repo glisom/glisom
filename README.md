@@ -1,4 +1,4 @@
-[![Blue halftone collage of a tennis racquet, steaming coffee mug, iPhone, canvas high-top sneaker, small smiling cloud, and Vampire-inspired laptop and bat, woven through abstract terrain and orbital lines.](assets/profile-banner.png)](https://grantisom.com)
+[![Colorful halftone collage of a tennis racquet, coral coffee mug, iPhone, canvas high-top sneaker, small smiling cloud, and laptop, woven through blue, teal, and lavender terrain and orbital lines on charcoal.](assets/profile-collage-color.png)](https://grantisom.com)
 
 ## Hi, I'm Grant.
 
