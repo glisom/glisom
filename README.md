@@ -1,11 +1,23 @@
+[![Grant Isom — Software Engineer · Applied AI. A smiling blue halftone cloud on charcoal.](assets/profile-banner.png)](https://grantisom.com)
+
 ## Hi, I'm Grant.
 
-Software engineer with 10+ years building and leading mobile, AI, and platform teams. 0→1 builder who scales people, process, and product.
+I build AI agents at [Limelight](https://www.limelighthq.com/), run Groundwork AI, and make apps and tools I want to use. I write about what I'm building and learning along the way.
 
-### What I'm working on
+### Selected projects
 
-- [Limelight](https://www.limelighthq.com/) — The first b2b creator partnership platform
+- **[Hermes iOS](https://github.com/glisom/hermes-ios)** — An iPhone app for chatting with Hermes Agent and managing its sessions, jobs, and skills.
+- **[Vampire](https://github.com/glisom/vampire)** — A macOS menu bar app that keeps your MacBook awake with the lid closed and restores normal sleep when you're done.
 
-### Links
+### Recent writing
 
-[Blog](https://grantisom.com) · [LinkedIn](https://linkedin.com/in/grantisom) · [About](https://grantisom.com/about)
+- [Vampire: Keep Your MacBook Awake](https://grantisom.com/2026/09/01/vampire.html)
+- [skill-thief: Steal the Ideas, Not the Install](https://grantisom.com/2026/09/01/skill-thief.html)
+
+[More writing →](https://grantisom.com/blog/)
+
+---
+
+Based in Kansas City. Dad, tennis player, and opinionated about coffee.
+
+[Website](https://grantisom.com) · [LinkedIn](https://linkedin.com/in/grantisom) · [Email](mailto:grant.isom@gmail.com)
